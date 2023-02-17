@@ -8,4 +8,4 @@ This project is used to test alpha modulation in EEG data collected from three s
 
 ![alt text]
 
-![alt text]
+![alt text](https://github.com/laythamra28/EEG-Alpha-Modulation/blob/main/boxplot-openvsclose.jpg)
